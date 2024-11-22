@@ -1,0 +1,2 @@
+# webUpdataDelphi
+Atualização componente webUpdate 
