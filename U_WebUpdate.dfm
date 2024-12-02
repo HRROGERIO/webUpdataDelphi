@@ -1,6 +1,6 @@
 object Form1: TForm1
-  Left = 96
-  Top = 141
+  Left = 202
+  Top = 171
   Width = 1305
   Height = 675
   Caption = 'WebUpdate Delphi'

@@ -1,7 +1,41 @@
+{*******************************************************
+ * Arquivo: NomeDaUnidade.pas
+ * Data: dd/mm/aaaa
+ * Autor: Seu Nome
+ * Descrição: Breve descrição sobre o que o código faz.
+ *
+ * Alterações:
+ * dd/mm/aaaa - Descrição da alteração realizada.
+ * dd/mm/aaaa - Descrição de outra alteração.
+ *******************************************************}
+
+
+
+{*******************************************************
+ * Arquivo: U_WebUpdate.pas
+ * Data: 02/12/2024
+ * Autor: Hamilton
+ * Descrição: atualiza renomenando o exe anterior
+ *
+ * Alterações:
+ * dd/mm/aaaa - Descrição da alteração realizada.
+ * dd/mm/aaaa - Descrição de outra alteração.
+ *******************************************************}
+
+
+//
+//
+//
+
+
+
 // Sig 27/11/2024 renomear exe copiando antigo.
 
 //Testar atualização do componente TWebUpdate renomeando o exe antigo ao invés de excluir
 //(criar projeto separado, protótipo "sig-prot\update-rename-old-exe" )
+//
+//
+//
 
 
 unit U_WebUpdate;
