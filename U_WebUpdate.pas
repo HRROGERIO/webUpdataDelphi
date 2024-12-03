@@ -1,42 +1,14 @@
 {*******************************************************
- * Arquivo: NomeDaUnidade.pas
- * Data: dd/mm/aaaa
- * Autor: Seu Nome
- * Descrição: Breve descrição sobre o que o código faz.
- *
- * Alterações:
- * dd/mm/aaaa - Descrição da alteração realizada.
- * dd/mm/aaaa - Descrição de outra alteração.
- *******************************************************}
-
-
-
-{*******************************************************
- * Arquivo: NomeDoArquivo.pas
- * Data: dd/mm/aaaa
+ * Arquivo: U_WebUpdate.pas
+ * Data: 03/12/2024
  * Autor: Hamilton
  * Descrição: Implementação para testar atualização do componente TWebUpdate.
  *
  * Alterações:
- * dd/mm/aaaa - Testar atualização do componente TWebUpdate renomeando o EXE antigo
+ * 03/12/2024 - Testar atualização do componente TWebUpdate renomeando o EXE antigo
  *              ao invés de excluir.
  *              Criado projeto separado (protótipo "c:\d:\projetos\webupdatedelphi7]
  *******************************************************}
-
-//
-//
-//
-
-
-
-// Sig 27/11/2024 renomear exe copiando antigo.
-
-//Testar atualização do componente TWebUpdate renomeando o exe antigo ao invés de excluir
-//(criar projeto separado, protótipo "sig-prot\update-rename-old-exe" )
-//
-//
-//
-
 
 unit U_WebUpdate;
 
@@ -62,9 +34,6 @@ var
 implementation
 
 {$R *.dfm}
-
-
-
 
 //
 //

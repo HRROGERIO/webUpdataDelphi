@@ -31,6 +31,7 @@ object Form1: TForm1
     TempDirectory = '.'
     TimeFormat = 'hh:nn'
     TimeSeparator = ':'
+    URL = 'C:\D\Projetos\webUpdataDelphi7\atualiza/updateinfo.ini'
     Version = '2.2.4.1'
     Left = 688
     Top = 56

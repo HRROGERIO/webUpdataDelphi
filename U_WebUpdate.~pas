@@ -44,11 +44,12 @@ interface
 
 uses
   Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
-  Dialogs, StdCtrls;
+  Dialogs, StdCtrls, WUpdate;
 
 type
   TForm1 = class(TForm)
     Button1: TButton;
+    WebUpdate1: TWebUpdate;
   private
     { Private declarations }
   public
